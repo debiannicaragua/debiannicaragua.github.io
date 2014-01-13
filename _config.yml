@@ -1,0 +1,21 @@
+# Blog settings
+name: Debian Nicaragua
+author: Debian Nicaragua
+description: Sitio web de comunidad Debian Nicaragua
+baseurl: /
+url: http://leogg.github.io/debian-ni
+
+# Social media
+mailinglist: http://mail.debian.org.ni/mailman/listinfo/debian-ni_debian.org.ni
+wiki: http://wiki.debian.org/DebianNicaragua
+twitter: http://twitter.com/debiannicaragua
+irc: http://en.irc2go.com/webchat/?net=OFTC&room=debian-ni
+github: https://github.com/leogg/debian-ni
+
+# Disqus comments
+disqus: debiannicaragua
+
+# Jekyll settings
+markdown: redcarpet
+pygments: true
+permalink: /archivos/:year/:month/:day/:title/
