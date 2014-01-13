@@ -1,4 +1,4 @@
 debian-ni
 =========
 
-Sitio web de Debian Nicaragua
+Sitio web oficial de la comunidad Debian Nicaragua.
