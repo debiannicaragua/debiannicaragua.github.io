@@ -3,14 +3,14 @@ name: Debian Nicaragua
 author: Debian Nicaragua
 description: Sitio web de comunidad Debian Nicaragua
 baseurl: /
-url: http://leogg.github.io/debian-ni
+url: http://debiannicaragua.github.io
 
 # Social media
 mailinglist: http://mail.debian.org.ni/mailman/listinfo/debian-ni_debian.org.ni
 wiki: http://wiki.debian.org/DebianNicaragua
 twitter: http://twitter.com/debiannicaragua
 irc: http://en.irc2go.com/webchat/?net=OFTC&room=debian-ni
-github: https://github.com/leogg/debian-ni
+github: https://github.com/debiannicaragua/debiannicaragua.github.io
 
 # Disqus comments
 disqus: debiannicaragua
