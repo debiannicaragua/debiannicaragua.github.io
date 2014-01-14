@@ -18,10 +18,10 @@ layout: article
 
  <ul class="pager">
   {% if page.previous %}
-  <li class="previous"><a href="/debian-ni{{ page.previous.url }}">&larr; Anterior</a></li>
+  <li class="previous"><a href="{{ page.previous.url }}">&larr; Anterior</a></li>
   {% endif %}
   {% if page.next %} 
-  <li class="next"><a href="/debian-ni{{ page.next.url }}">Siguiente &rarr;</a></li>
+  <li class="next"><a href="{{ page.next.url }}">Siguiente &rarr;</a></li>
   {% endif %}
 
 </ul>
