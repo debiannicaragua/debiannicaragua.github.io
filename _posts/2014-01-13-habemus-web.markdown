@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Habemus web!"
-date:   2014-01-08 16:07:23
+date:   2014-01-13 16:07:23
 author: leogg
 ---
 
-La comunidad Debian Nicaragua inicia el año 2014 estrenando sitio web. 
+La comunidad Debian Nicaragua inicia el año 2014 estrenando sitio web.
 
 Desde el 2008, hemos utilizado [WordPress](http://es.wordpress.org) como plataforma de publicación. WordPress es una gran herramienta. Es extensible, fácil de usar y cuenta con una gran base de usuarios y colaboradores.
 
