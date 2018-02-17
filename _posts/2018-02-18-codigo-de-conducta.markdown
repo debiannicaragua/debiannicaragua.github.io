@@ -2,10 +2,10 @@
 layout: post
 title:  "Código de Conducta de Debian"
 date:   2018-02-17 12:02:25
-author: @antorcha
+author: antorcha
 ---
 
-El proyecto [@Debian](https://www.debian.org) propuso el 28 de abril de 2014 el código de conducta para los participantes de las listas de correo, canales IRC y otros medios de comunicación dentro del proyecto.
+El proyecto [Debian](https://www.debian.org) propuso el 28 de abril de 2014 el código de conducta para los participantes de las listas de correo, canales IRC y otros medios de comunicación dentro del proyecto.
 
 Todos los debianitas conocemos [este código](https://www.debian.org/code_of_conduct) y lo queremos compartir algo más resumido:
 
