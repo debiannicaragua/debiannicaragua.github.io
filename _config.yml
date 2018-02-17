@@ -16,6 +16,6 @@ github: https://github.com/debiannicaragua/debiannicaragua.github.io
 disqus: debiannicaragua
 
 # Jekyll settings
-markdown: redcarpet
-pygments: true
+markdown: kramdown
+highlighter: rouge
 permalink: /archivos/:year/:month/:day/:title/
