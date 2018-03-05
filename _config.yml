@@ -18,7 +18,7 @@ disqus: debiannicaragua
 # Jekyll settings
 #markdown: kramdown
 #highlighter: rouge
-permalink: /archivos/:year/:month/:day/:title/
+#permalink: /archivos/:year/:month/:day/:title/
 
 kramdown:
  input: GFM
