@@ -2,7 +2,7 @@
 name: Debian Nicaragua
 author: Debian Nicaragua
 description: Sitio web de comunidad Debian Nicaragua
-baseurl: ""
+baseurl: /
 url: http://debiannicaragua.github.io
 
 # Social media
