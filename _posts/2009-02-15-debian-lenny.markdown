@@ -7,9 +7,9 @@ author: jimbodoors
 
 Después de 22 meses de desarrollo, finalmente la comunidad debianita mundial puede celebrar el lanzamiento oficial de _Debian Lenny_.
 
-<p align="center">
+<p align="center" markdown="1">
 ![Image]({{ site.url }}/images/debian_lenny.jpg)
-<p>
+</p>
 
 El 8 de abril del 2007, se hizo el lanzamiento oficial de Debian GNU/Linux 4.0 con nombre de código _Etch_. En ese momento la versión inestable que siempre se conoce como _Sid_ pasó a ser la nueva versión de prueba o _Lenny_.
 
