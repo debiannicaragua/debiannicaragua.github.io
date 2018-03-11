@@ -9,9 +9,9 @@ author: admin
 + Hora: __6 – 8 pm__
 + Local: __Instituto de Informática y Sistemas__
 
-<p align="center">
+<p align="center" markdown="1">
 ![Image]({{ site.url }}/images/taller-debian.png)
-<p>
+</p>
 
 Una introducción a la construcción de paquetes Debian para los interesados en mantener o desarrollar paquetes para Debian. El taller será impartido por René Mayorga, Colaborador del Proyecto Debian y miembro de la comunidad Debian GNU/Linux de El Salvador.
 
