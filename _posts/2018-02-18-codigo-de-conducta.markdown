@@ -9,9 +9,9 @@ El proyecto [Debian](https://www.debian.org) propuso el 28 de abril de 2014 el c
 
 En la comunidad debianita conocemos [este código](https://www.debian.org/code_of_conduct) y lo queremos compartir más resumido:
 
-<p align="left">
+<p align="left" markdown="1">
 ![Image]({{ site.url }}/images/officiallogo.jpg)
-<p>
+</p>
 
 # Código de conducta
 
