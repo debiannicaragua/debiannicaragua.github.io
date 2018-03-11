@@ -17,7 +17,7 @@ Sin embargo, para las necesidades de una comunidad pequeña como la nuestra, con
 
 Con esto le decimos adiós a las bases de datos. Nos despedimos de las extensiones y temas difíciles de mantener o actualizar, y nos enfocamos en lo más importante; **generar contenido útil e interesante para el sitio web**.
 
-<p align="center">
+<p align="center" markdown="1">
 ![Image]({{ site.url }}/images/jekyll-logo-sm.png)
 <p>
 
