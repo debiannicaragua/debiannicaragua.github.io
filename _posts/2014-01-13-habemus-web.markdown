@@ -19,7 +19,7 @@ Con esto le decimos adiós a las bases de datos. Nos despedimos de las extension
 
 <p align="center" markdown="1">
 ![Image]({{ site.url }}/images/jekyll-logo-sm.png)
-<p>
+</p>
 
 Para facilitar la creación de entradas en el blog de la comunidad, hacemos uso de [Markdown](http://es.wikipedia.org/wiki/Markdown), un lenguaje de marcado sencillo, que convierte el texto marcado en documentos XHTML bien formados.
 
