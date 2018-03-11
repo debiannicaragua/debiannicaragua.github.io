@@ -7,6 +7,6 @@ author: leogg
 
 Feliz cumpleaños Debian!
 
-<p align="center">
+<p align="center" markdown="1">
 ![Image]({{ site.url }}/images/debian-19.png)
-<p>
+</p>
